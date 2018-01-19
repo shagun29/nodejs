@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shagun29/nodejs/issues"
   },
-  "homepage": "https://github.com/shagun29/nodejs#readme"
+  "homepage": "https://github.com/shagun29/nodejs#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
